@@ -1,13 +1,13 @@
-# QA Testing Portfolio – Manual, API & UI Automation
+# QA Testing Project – Manual, API & UI Automation
 
-Welcome to my **Software Quality Assurance (SQA) Testing Portfolio**.
+Welcome to my **Software Quality Assurance (SQA) Testing Project**.
 
 This repository contains my hands-on testing work across **Manual Testing, API Testing, and UI Automation Testing**, including test cases, bug reports, API validations, automated test scripts, and test execution reports.
 
 
-## 📌 Project Overview
+## Project Overview
 
-This portfolio demonstrates practical experience in different areas of software testing:
+This Project demonstrates practical experience in different areas of software testing:
 
 * 🔍 Manual Testing
 * 🌐 API Testing
@@ -19,7 +19,7 @@ This portfolio demonstrates practical experience in different areas of software 
 
 The goal is to demonstrate a structured QA workflow from test planning and execution to defect identification and automation.
 
-## 📂 Repository Structure
+## Repository Structure
 
 Automation-Manual-and-API-Testing-Project/
 │
@@ -38,7 +38,7 @@ Automation-Manual-and-API-Testing-Project/
     ├── 📄 package-lock.json
     └── 📄 playwright.config.js
 
-# 🔍 Manual Testing
+# Manual Testing
 
 The Manual Testing section contains QA documentation and testing artefacts.
 
@@ -55,7 +55,7 @@ The Manual Testing section contains QA documentation and testing artefacts.
 * Test Execution
 * Test Summary Reporting
 
-### 📁 Location
+### Location
 
 ➡️ **[Manual-Testing](./Manual-Testing)**
 
@@ -92,7 +92,7 @@ API testing is performed using **Postman** with automated assertions and Newman 
 * Validate returned ID after update
 * Validate required response fields
 
-### 📁 Location
+### Location
 
 ➡️ **[API-Testing](./API-Testing)**
 
@@ -178,7 +178,7 @@ The Playwright HTML execution report is available inside:
 
 ---
 
-# 🧪 Testing Skills
+# Testing Skills
 
 ### Manual Testing
 
@@ -224,7 +224,7 @@ The Playwright HTML execution report is available inside:
 
 ---
 
-# 📈 QA Workflow
+# QA Workflow
 
 Requirement Analysis
         ↓
@@ -248,7 +248,7 @@ Test Reporting
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 I am an aspiring **Software Quality Assurance Engineer** interested in building reliable, user-focused software through structured testing and automation.
 
@@ -270,6 +270,6 @@ My current focus includes:
 
 ---
 
-## ⭐ Repository
+## Repository
 
 This repository is continuously updated as I expand my QA testing skills and add new testing projects, automation scenarios, and testing techniques.
