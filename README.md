@@ -5,7 +5,7 @@ Welcome to my **Software Quality Assurance (SQA) Testing Project**.
 This repository contains my hands-on testing work across **Manual Testing, API Testing, and UI Automation Testing**, including test cases, bug reports, API validations, automated test scripts, and test execution reports.
 
 
-## Project Overview
+## Project Overview 
 
 This Project demonstrates practical experience in different areas of software testing:
 
